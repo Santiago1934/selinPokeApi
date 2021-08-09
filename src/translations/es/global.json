@@ -1,0 +1,22 @@
+{
+    "card" : {
+        "weight":"Peso",
+        "height":"Altura"
+  },
+  "search" : {
+    "placeholder":"Búsca un Pokemón..."
+  }, 
+  "pagination" : {
+    "left":"Izquierda",
+    "right":"Derecha",
+    "of" : "de"
+    },
+    "type" : {
+        "title" : "Tipo de Pokemón",
+        "abilities" : "Habilidades"
+    },
+    "notfound": {
+        "text" : "No se encontró el Pokemón que buscabas"
+    },"add": {
+      "add" : "Agregar"
+  }}

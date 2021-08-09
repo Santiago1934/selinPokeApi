@@ -1,0 +1,24 @@
+{
+    "card" : {
+        "weight" : "Weight",
+        "height" : "Height"
+  },
+    "search" : {
+        "placeholder":"Search a Pokemon..."
+    },
+    "pagination" : {
+        "left":"Left",
+        "right":"Right",
+        "of" : "of"
+    },
+    "type" : {
+        "title" : "Pokemon Type",
+        "abilities" : "Abilities"
+    },
+    "notfound": {
+        "text" : "The pokemon you were looking for was not found"
+    },
+    "add": {
+        "add" : "Add"
+    }
+}
